@@ -4,7 +4,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/images-af837.appspot.com/o/GithubProfile%2Fsticker.png?alt=media&token=fa90dea6-3e80-4023-a569-04e77ad266e2" width="180" height="180"/>
 </div>
 <p align="center">
-     👽 I'm Daksh Patel, A passionate Computer Engineer & Software Developer from India, who currently living in Canada. 🎓 I completed A Bachelor of Engineering from Gujarat University, India ✍️ I’m currently learning Azure and Cloud computing. 🧑‍💻 I love writing code and learning anything about it
+     👽 My name is Daksh, A passionate Computer Engineer & Software Developer from India, who currently living in Canada. 🎓 I completed A Bachelor of Engineering from Gujarat University, India ✍️ I’m currently learning Azure and Cloud computing. 🧑‍💻 I love writing code and learning anything about it
 </p>
 
 
